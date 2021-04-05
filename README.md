@@ -1,2 +1,2 @@
 ﻿# PythonicCryptographicCodes
- # Each cipher has its alternated bruteforce attack script
+ # Each cipher has its alternate bruteforce attack script
